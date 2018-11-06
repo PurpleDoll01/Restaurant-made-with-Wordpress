@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a7575bd-fc97-4e62-b7a0-d3edf062fcd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-    </list>
+    <list default="true" id="8a7575bd-fc97-4e62-b7a0-d3edf062fcd8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +12,7 @@
     <session id="-884611981">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.opened" value="6" />
@@ -118,7 +116,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-3" />
     <option name="width" value="710" />
     <option name="height" value="729" />
@@ -213,8 +211,7 @@
     <option name="totallyTimeSpent" value="4772000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="0" width="710" height="729" extended-state="1" />
-    <editor active="true" />
+    <frame x="-3" y="0" width="710" height="729" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29692307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
